@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 654efad14e784e94da3e9355dbbec950, type: 3}
+  m_Name: SpawnSheepConfig
+  m_EditorClassIdentifier: 
+  _sheepPrefab: {fileID: 7260806030522605900, guid: e474c4d84d4ccf2469fbb0ac681c3baf, type: 3}
+  _sheepStats:
+    _speedMove: 5
+    _speedRotation: 200
+    _acceleration: 5.7
+    _drag: 1.61
+    _velocity: 0
+  _sheepStatsUpdatable:
+    _speedMove: 0
+    _speedRotation: 0
+    _acceleration: 0
+    _drag: 0
+    _velocity: 0

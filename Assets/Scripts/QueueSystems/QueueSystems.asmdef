@@ -1,0 +1,20 @@
+{
+    "name": "QueueSystems",
+    "rootNamespace": "",
+    "references": [
+        "GUID:39b5fa49357d2cc4b87ff2cca7688e81",
+        "GUID:247fe0c73c5f8784b90cbf775b11192e",
+        "GUID:fad2629e4cbdd3f4aaba590720873a24",
+        "GUID:ff648075388c58640bac939e9f831ea7",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
